@@ -5,3 +5,7 @@ accountCity = "jaipur";
 console.log(accountCity, accountPassword, accountEmail, account_id);
 
 console.table([account_id,accountEmail,accountPassword,accountCity])
+ accountEmail = "aasdsasd@yopmail.com";
+ accountPassword = "assadasd@1234";
+accountCity = "delhi";
+console.table([account_id,accountEmail,accountPassword,accountCity])
